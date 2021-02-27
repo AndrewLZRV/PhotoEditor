@@ -1,0 +1,22 @@
+D:\C-Sharp Projects\фоторедактор\фоторедактор\bin\Debug\фоторедактор.exe.config
+D:\C-Sharp Projects\фоторедактор\фоторедактор\bin\Debug\фоторедактор.exe
+D:\C-Sharp Projects\фоторедактор\фоторедактор\bin\Debug\фоторедактор.pdb
+D:\C-Sharp Projects\фоторедактор\фоторедактор\obj\Debug\фоторедактор.mainForm.resources
+D:\C-Sharp Projects\фоторедактор\фоторедактор\obj\Debug\фоторедактор.Properties.Resources.resources
+D:\C-Sharp Projects\фоторедактор\фоторедактор\obj\Debug\drawer.csproj.GenerateResource.cache
+D:\C-Sharp Projects\фоторедактор\фоторедактор\obj\Debug\фоторедактор.exe
+D:\C-Sharp Projects\фоторедактор\фоторедактор\obj\Debug\фоторедактор.pdb
+D:\C-Sharp Projects\фоторедактор\фоторедактор\obj\Debug\drawer.csprojAssemblyReference.cache
+D:\C-Sharp Projects\фоторедактор\фоторедактор\obj\Debug\drawer.csproj.CoreCompileInputs.cache
+D:\C-Sharp Projects\фоторедактор\фоторедактор\obj\Debug\фоторедактор.LineWidthSelector.resources
+E:\.net\фоторедактор\фоторедактор\bin\Debug\фоторедактор.exe.config
+E:\.net\фоторедактор\фоторедактор\bin\Debug\фоторедактор.exe
+E:\.net\фоторедактор\фоторедактор\bin\Debug\фоторедактор.pdb
+E:\.net\фоторедактор\фоторедактор\obj\Debug\drawer.csprojAssemblyReference.cache
+E:\.net\фоторедактор\фоторедактор\obj\Debug\фоторедактор.LineWidthSelector.resources
+E:\.net\фоторедактор\фоторедактор\obj\Debug\фоторедактор.mainForm.resources
+E:\.net\фоторедактор\фоторедактор\obj\Debug\фоторедактор.Properties.Resources.resources
+E:\.net\фоторедактор\фоторедактор\obj\Debug\drawer.csproj.GenerateResource.cache
+E:\.net\фоторедактор\фоторедактор\obj\Debug\drawer.csproj.CoreCompileInputs.cache
+E:\.net\фоторедактор\фоторедактор\obj\Debug\фоторедактор.exe
+E:\.net\фоторедактор\фоторедактор\obj\Debug\фоторедактор.pdb

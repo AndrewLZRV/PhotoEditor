@@ -1,0 +1,9 @@
+D:\C-Sharp Projects\фоторедактор\фоторедактор\bin\Debug\фоторедактор.exe.config
+D:\C-Sharp Projects\фоторедактор\фоторедактор\bin\Debug\фоторедактор.exe
+D:\C-Sharp Projects\фоторедактор\фоторедактор\bin\Debug\фоторедактор.pdb
+D:\C-Sharp Projects\фоторедактор\фоторедактор\obj\Debug\фоторедактор.csprojAssemblyReference.cache
+D:\C-Sharp Projects\фоторедактор\фоторедактор\obj\Debug\фоторедактор.mainForm.resources
+D:\C-Sharp Projects\фоторедактор\фоторедактор\obj\Debug\фоторедактор.Properties.Resources.resources
+D:\C-Sharp Projects\фоторедактор\фоторедактор\obj\Debug\фоторедактор.csproj.GenerateResource.cache
+D:\C-Sharp Projects\фоторедактор\фоторедактор\obj\Debug\фоторедактор.exe
+D:\C-Sharp Projects\фоторедактор\фоторедактор\obj\Debug\фоторедактор.pdb
